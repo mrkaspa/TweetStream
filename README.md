@@ -1,0 +1,1 @@
+Stream your tweets to the console, set the credentials in the application.conf file
